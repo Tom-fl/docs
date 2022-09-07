@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-09-06 11:36:23
- * @LastEditTime: 2022-09-07 18:39:19
+ * @LastEditTime: 2022-09-07 22:36:00
  * @Email: Tom
  * @FilePath: \problem\docs\_sidebar.md
  * @Environment: Win 10
@@ -36,3 +36,7 @@
 - problem
 
   - [问题](./md/problem/problem.md)
+
+- 创建项目准备
+
+  - [创建项目准备](./md/createProject/createProject.md)
