@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-09-06 11:36:23
- * @LastEditTime: 2022-09-08 12:08:45
+ * @LastEditTime: 2022-09-08 12:18:14
  * @Email: Tom
  * @FilePath: \problem\docs\_sidebar.md
  * @Environment: Win 10
@@ -37,6 +37,7 @@
   - [css](./md/vue/vue2/css.md)
   - [elementUi 按需加载](./md/vue/vue2/elementUi.md)
   - [v-model](./md/vue/vue2/v-model.md)
+  - [表单验证](./md/vue/vue2/formTest.md)
 - vue3
   - [vue3](./md/vue/vue3/vue3.md)
 - vue
