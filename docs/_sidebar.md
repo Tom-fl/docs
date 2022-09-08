@@ -39,6 +39,7 @@
   - [v-model](./md/vue/vue2/v-model.md)
   - [表单验证](./md/vue/vue2/formTest.md)
   - [富文本](./md/vue/vue2/richText.md)
+  - [打印机条形码](./md/vue/vue2/barCode.md)
 - vue3
   - [vue3](./md/vue/vue3/vue3.md)
 - vue
