@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-09-06 11:36:23
- * @LastEditTime: 2022-09-08 11:05:26
+ * @LastEditTime: 2022-09-08 11:31:19
  * @Email: Tom
  * @FilePath: \problem\docs\_sidebar.md
  * @Environment: Win 10
@@ -42,6 +42,7 @@
 
   - [问题](./md/problem/problem.md)
   - [数据处理](./md/problem/dataProcessing.md)
+  - [海康摄像头](./md/problem/haikang.md)
 
 - 创建项目准备
 
