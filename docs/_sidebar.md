@@ -2,7 +2,7 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-09-06 11:36:23
- * @LastEditTime: 2022-09-08 11:31:19
+ * @LastEditTime: 2022-09-08 11:45:56
  * @Email: Tom
  * @FilePath: \problem\docs\_sidebar.md
  * @Environment: Win 10
@@ -32,10 +32,14 @@
 
   - [插件](./md/vscode/vscode.md)
 
+- vue2
+  - [vuex](./md/vue/vue2/vuex.md)
+  - [css](./md/vue/vue2/css.md)
+  - [elementUi 按需加载](./md/vue/vue2/elementUi.md)
+- vue3
+  - [vue3](./md/vue/vue3/vue3.md)
 - vue
 
-  - [vue2](./md/vue/vue2/vue2.md)
-  - [vue3](./md/vue/vue3/vue3.md)
   - [其他](./md/vue/vueRests/虚拟DOM和diff算法.md)
 
 - problem
