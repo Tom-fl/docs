@@ -2,16 +2,21 @@
  * @Author: Tom
  * @LastEditors: Tom
  * @Date: 2022-09-06 11:36:23
- * @LastEditTime: 2022-09-07 22:36:00
+ * @LastEditTime: 2022-09-08 11:05:26
  * @Email: Tom
  * @FilePath: \problem\docs\_sidebar.md
  * @Environment: Win 10
  * @Description: 侧边栏的显示 配置
 -->
 
+- js
+
+  - [语音播报](./md/js/voice.md)
+  - [数据加密](./md/js/dataEncryption.md)
+
 - git
 
-  - [git](./md/git/git.md)
+  - [git clone](./md/git/git.md)
   - [github host](./md/git/host.md)
 
 - 面试题
@@ -36,6 +41,7 @@
 - problem
 
   - [问题](./md/problem/problem.md)
+  - [数据处理](./md/problem/dataProcessing.md)
 
 - 创建项目准备
 
